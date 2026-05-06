@@ -21,11 +21,11 @@ Hi, I'm Jihong Jeon, undergraduate researcher at [BIGBASE Lab](https://sites.goo
 Looking for a teammate for an ML competition? Feel free to reach out via email or LinkedIn. ☺️
 
 ```
-                  ☁︎                 ☁︎
-       ᗢᘏᓚ                       ᓚᘏᗢ
-              ᓚᘏᗢ        ᗢᘏᓚ
-                  (=^･ω･^=)
-           ❀                    ✿
-       ᓚᘏᗢ                       ᗢᘏᓚ
-   ‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿
+        ☀️             ☁️             ☁️
+       ᗢᘏᓚ                          ᓚᘏᗢ
+              ᓚᘏᗢ           ᗢᘏᓚ
+                   (=^･ω･^=)
+         🌸          🌼          🌺
+       ᓚᘏᗢ                          ᗢᘏᓚ
+ 🌿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿🌿
 ```
