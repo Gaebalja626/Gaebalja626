@@ -1,7 +1,7 @@
 ### Hi, I'm Jihong Jeon 👋
 
 Undergraduate researcher @ BIGBASE Lab, SeoulTech.  
-Interested in time series forecasting under distribution shift and LLM compression.
+Researching time series forecasting under distribution shift, with focus on financial applications.
 
 📫 gaebalja626@gmail.com
 
@@ -10,11 +10,11 @@ Interested in time series forecasting under distribution shift and LLM compressi
 #### 📝 Publications
 
 - **From Diffusion to Flow**: Efficient Motion Generation in MotionGPT3 — *ICLR 2026 ReALM-GEN Workshop*
-- **SWiT**: Spectral Wiener Test-Time Adaptation for Time Series Forecasting — *NeurIPS 2026 (in prep)*
+- **SWiT**: Spectral Wiener Test-Time Adaptation for Time Series Forecasting — *Under review at NeurIPS 2026*
 
 #### 🛠 Stack
 
-`Python` · `PyTorch` · `CUDA` · `vLLM` · `Next.js` · `TypeScript`
+`Python` · `PyTorch` · `CUDA` · `Next.js` · `TypeScript`
 
 ---
 
