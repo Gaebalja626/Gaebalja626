@@ -1,12 +1,12 @@
-Hi, I'm Jihong Jeon, undergraduate researcher at BIGBASE Lab, SeoulTech.
+Hi, I'm Jihong Jeon, undergraduate researcher at BIGBASE Lab, SeoulTech. I also enjoy ML competitions on the side — open to teaming up.
 
-**Research interests**: time series forecasting under distribution shift, with focus on financial applications.
+**Research interests**: time series forecasting under distribution shift, with focus on financial applications and trading agents.
 
 **Publications**
 - *Diffusion to Flow: Efficient Motion Generation in MotionGPT3.* ICLR 2026 ReALM-GEN Workshop.
 - *SWiT: Spectral Wiener Test-Time Adaptation for Time Series Forecasting.* Under review at NeurIPS 2026.
 
-**Competitions** — I enjoy ML competitions. Always open to teaming up.
+**Competitions**
 - WorldQuant International Quant Championship 2026 — *currently competing*
 - LG Aimers 8th LLM Lightweighting Competition — 2nd / 628 (2026)
 - Kookmin University AI Big Data Competition — 2nd / 960 (2025)
