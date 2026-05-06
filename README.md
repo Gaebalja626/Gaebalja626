@@ -13,9 +13,11 @@ Hi, I'm Jihong Jeon, undergraduate researcher at [BIGBASE Lab](https://sites.goo
 - K-League AI Competition (University of Seoul) — 6th / 937 (2026)
 - Winter SCI Speech Recognition Bootcamp (SeoulTech) — 2nd / 8 (2024)
 
-📫 gaebalja626@gmail.com · [CV](./cv.pdf)  
+📫 gaebalja626@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%99%8D-%EC%A0%84-b02a33332/) · [Google Scholar](https://scholar.google.com/citations?user=dCNBZzUAAAAJ) · [OpenReview](https://openreview.net/profile?id=%7EJiHong_Jeon1)
 
 ---
 
 Looking for a teammate for an ML competition? Feel free to reach out via email or LinkedIn.
+
+ᓚᘏᗢ
