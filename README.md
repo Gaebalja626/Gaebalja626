@@ -1,9 +1,9 @@
-Hi, I'm Jihong Jeon, undergraduate researcher at BIGBASE Lab, SeoulTech. I also enjoy ML competitions on the side — open to teaming up.
+Hi, I'm Jihong Jeon, undergraduate researcher at [BIGBASE Lab](https://sites.google.com/view/seoultech-bigdata), SeoulTech. I also enjoy ML competitions on the side — open to teaming up.
 
 **Research interests**: time series forecasting under distribution shift, with focus on financial applications and trading agents.
 
 **Publications**
-- *Diffusion to Flow: Efficient Motion Generation in MotionGPT3.* ICLR 2026 ReALM-GEN Workshop.
+- *[Diffusion to Flow: Efficient Motion Generation in MotionGPT3](https://openreview.net/forum?id=EuuNOyt282).* ICLR 2026 ReALM-GEN Workshop.
 - *SWiT: Spectral Wiener Test-Time Adaptation for Time Series Forecasting.* Under review at NeurIPS 2026.
 
 **Competitions**
@@ -15,3 +15,7 @@ Hi, I'm Jihong Jeon, undergraduate researcher at BIGBASE Lab, SeoulTech. I also 
 
 📫 gaebalja626@gmail.com · [CV](./cv.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%99%8D-%EC%A0%84-b02a33332/) · [Google Scholar](https://scholar.google.com/citations?user=dCNBZzUAAAAJ) · [OpenReview](https://openreview.net/profile?id=%7EJiHong_Jeon1)
+
+---
+
+Looking for a teammate for an ML competition? Feel free to reach out via email or LinkedIn.
