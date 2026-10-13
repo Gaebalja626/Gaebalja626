@@ -4,10 +4,11 @@ Hi, I'm Jihong Jeon, undergraduate researcher at [BIGBASE Lab](https://sites.goo
 
 **Publications**
 - *[Diffusion to Flow: Efficient Motion Generation in MotionGPT3](https://openreview.net/forum?id=EuuNOyt282).* ICLR 2026 ReALM-GEN Workshop.
-- *SWiT: Spectral Wiener Test-Time Adaptation for Time Series Forecasting.* Under review at NeurIPS 2026.
-
+  
 **Competitions**
-- WorldQuant International Quant Championship 2026 — *currently competing*
+
+- 
+- WorldQuant International Quant Championship 2026 — stage 1 complete 
 - LG Aimers 8th LLM Lightweighting Competition — 2nd / 628 (2026)
 - Kookmin University AI Big Data Competition — 2nd / 960 (2025)
 - K-League AI Competition (University of Seoul) — 6th / 937 (2026)
